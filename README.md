@@ -12,4 +12,4 @@ Formation SQL Avancé & NoSQL – Novembre 2026
 - `partie-C/` : Q7 (piège NOT IN), Q8 (transactions ACID), Q9 (architecture polyglotte)
 - `datalab_b2.sql` : script qui recrée la base DataLab B2 (lancer en premier)
 
-Les explications sont en commentaires dans chaque script.
+
