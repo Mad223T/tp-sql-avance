@@ -1,5 +1,7 @@
 ﻿# TP SQL Avancé – DataLab B2
 
+ "A corriger"
+
 **Nom :** TOURE
 **Prénom :** Mamadou Collin
 
