@@ -17,3 +17,4 @@ SELECT categorie, produit, prix_unitaire, rang
 FROM classement
 WHERE rang <= 2
 ORDER BY categorie, rang;
+
